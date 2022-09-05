@@ -1,0 +1,35 @@
+body {
+    background: url(cris.jpeg) no-repeat 100% fixed ;
+    background-size: cover;
+    color: white;
+    padding: 200px;
+  }
+  
+  p {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+    width: 100px;
+    position: absolute;
+  }
+  
+  .hidden {
+    display:none;
+  }
+  
+  #move {
+    left: 300px;
+  }
+  
+  #change:hover {
+    cursor:pointer;
+  }
+
+  a{
+    cursor:pointer;
+  font-weight: bold;
+  }
